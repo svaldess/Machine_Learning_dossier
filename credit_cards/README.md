@@ -1,4 +1,5 @@
 # Analysis of credit card patterns: K-Means Clustering and Linear Regression Model
+## #Banking #Regression #Clustering
 
 This notebook identifies clusters of credit card users, using **K-means clustering**. **Principal Components Analysis (PCA)** is used to reduce 
 the dimensionality of the data. Dividing the users in clusters is useful, first, to understand credit patterns and, second, to create better market strategies.
