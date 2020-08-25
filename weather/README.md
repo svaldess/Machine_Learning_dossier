@@ -1,4 +1,5 @@
 # Predicting temperature with a linear regression model
+## #Science #Regression
 
 This notebook explores the possibility of predicting the temperature in a given day based on numerical features such as precipitation, 
 humidity, wind speed, among others. Scikit-Learn was used for processing and analyzing the data. The data was extracted from this [dataset](https://www.kaggle.com/budincsevity/szeged-weather).
