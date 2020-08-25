@@ -1,5 +1,5 @@
 # Understanding recidivism: a logistic regression model for clasifying new offenses
-## #Scikit-learn 
+## #Legal #Scikit-learn 
 
 This jupyter notebook aims at predicting the type of "new offenses" committed by offenders based on categorical features such as their previous offense, 
 the type of release (parole, parole to detainer, etc), and demographical features of the offender (age, sex, race/ethnicity, etc) in Iowa, USA. 
